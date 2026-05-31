@@ -1,0 +1,17 @@
+- date: "2026-01"
+  content: 'Our R-Horizon has been accepted to <strong>ICLR 2026</strong>. We release R-Horizon, which is a novel benchmark and training recipe for RLVR on long-horizon reasoning. 🔥'
+
+- date: "2026-01"
+  content: 'We release <strong>EvoCUA</strong>, which focuses on GUI agent and achieves SOTA performance (56.7%) through all open-weights models on OS-World leaderboard. 🔥'
+
+- date: "2025-03"
+  content: 'Our team won the <strong>Gold Medal</strong> in Kaggle WSDM Cup - Multilingual Chatbot Arena. 🏅'
+
+- date: "2024-10"
+  content: 'Our team achieved <strong>2nd Place</strong> in RecSys 2024 EKSTRA BLADET News Recommendation Challenge. 🎉'
+
+- date: "2024-10"
+  content: 'Our paper "Calibrating the Confidence of Large Language Models by Eliciting Fidelity" has been accepted by <strong>EMNLP 2024</strong>. 🎉'
+
+- date: "2024-08"
+  content: 'Our team won the <strong>Silver Medal</strong> in Kaggle Home Credit Credit Risk Stability Challenge. 🏅'
